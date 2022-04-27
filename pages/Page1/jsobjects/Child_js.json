@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "Child_js",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\treturn \"hi\";\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": []
+      },
+      {
+        "name": "myVar2",
+        "value": {}
+      }
+    ]
+  },
+  "id": "Page1_Child_js",
+  "deleted": false,
+  "gitSyncId": "62693dd401b97143528bb054_62697d1e01b97143528bb20c"
+}

@@ -5,18 +5,24 @@
     "crudpage_1",
     "crudpage_1 Copy",
     "ApiCalls_1",
-    "ApiCalls_1 Copy"
+    "ApiCalls_1 Copy",
+    "Page1"
   ],
   "publishedPageOrder": [
     "crudpage_1",
     "crudpage_1 Copy",
     "ApiCalls_1",
-    "ApiCalls_1 Copy"
+    "ApiCalls_1 Copy",
+    "Page1"
   ],
   "publishedDefaultPageName": "crudpage_1",
   "unpublishedDefaultPageName": "crudpage_1",
   "invisibleActionFields": {
     "ApiCalls_1 Copy_Api1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_1 Copy_DeleteQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
@@ -32,11 +38,27 @@
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
-    "crudpage_1 Copy_DeleteQuery": {
+    "Page1_Child_js.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Child_js.myFun2": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
     "crudpage_1 Copy_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "crudpage_1 Copy_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "crudpage_1 Copy_JSObject1.myFun2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "crudpage_1 Copy_Query1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
